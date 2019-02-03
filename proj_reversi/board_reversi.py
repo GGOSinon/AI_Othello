@@ -1,7 +1,7 @@
 import tkinter
 import numpy as np
 
-Class Board:
+class Board:
 	xx = [-1,-1,-1,0,0,1,1,1]
 	yy = [-1,0,1,-1,1,-1,0,1]
 
